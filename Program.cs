@@ -6,7 +6,7 @@ namespace AddressBookProgram
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Address Book Management System Development!");
+           // Console.WriteLine("Welcome to Address Book Management System Development!");
             Console.WriteLine("******************************************************");
 
             //UserInput Class Object
