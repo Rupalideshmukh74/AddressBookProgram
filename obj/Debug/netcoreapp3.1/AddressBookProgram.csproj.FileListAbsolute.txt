@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\AddressBookProgram\bin\Debug\netcoreapp3.1\AddressBookProgram.exe
+C:\Users\admin\source\repos\AddressBookProgram\bin\Debug\netcoreapp3.1\AddressBookProgram.deps.json
+C:\Users\admin\source\repos\AddressBookProgram\bin\Debug\netcoreapp3.1\AddressBookProgram.runtimeconfig.json
+C:\Users\admin\source\repos\AddressBookProgram\bin\Debug\netcoreapp3.1\AddressBookProgram.runtimeconfig.dev.json
+C:\Users\admin\source\repos\AddressBookProgram\bin\Debug\netcoreapp3.1\AddressBookProgram.dll
+C:\Users\admin\source\repos\AddressBookProgram\bin\Debug\netcoreapp3.1\AddressBookProgram.pdb
+C:\Users\admin\source\repos\AddressBookProgram\obj\Debug\netcoreapp3.1\AddressBookProgram.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AddressBookProgram\obj\Debug\netcoreapp3.1\AddressBookProgram.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\AddressBookProgram\obj\Debug\netcoreapp3.1\AddressBookProgram.AssemblyInfo.cs
+C:\Users\admin\source\repos\AddressBookProgram\obj\Debug\netcoreapp3.1\AddressBookProgram.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AddressBookProgram\obj\Debug\netcoreapp3.1\AddressBookProgram.dll
+C:\Users\admin\source\repos\AddressBookProgram\obj\Debug\netcoreapp3.1\AddressBookProgram.pdb
+C:\Users\admin\source\repos\AddressBookProgram\obj\Debug\netcoreapp3.1\AddressBookProgram.genruntimeconfig.cache
